@@ -1,5 +1,3 @@
-# PyULZ: Ultra-Fast LZ77 Compression for Python
-
 **PyULZ** is a high-performance Python extension that provides bindings for the **ULZ (Ultra-fast LZ77)** compression library.
 
 ## What It Does
